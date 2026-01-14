@@ -17,6 +17,11 @@ Instead of following static instructions, ML algorithms build a mathematical mod
 
 - **Deep Learning**: A subset of machine learning that uses multi-layered neural networks to automatically discover and extract increasingly abstract features from raw data, such as identifying a face from pixel patterns in an image
 
+![[Pasted image 20260112003218.png]]
+
+
+![[Pasted image 20260112003643.png]]
+
 
 
 ### <mark style="background: #CACFD9A6;">
