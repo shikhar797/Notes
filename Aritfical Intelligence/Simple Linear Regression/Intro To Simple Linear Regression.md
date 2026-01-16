@@ -45,3 +45,6 @@ This method ensures that the line best represents the data where the sum of the 
 
 
 ![[Pasted image 20260115165025.png]]'
+
+
+\
