@@ -121,3 +121,69 @@ This displays all environment variables available in the current shell.
 `expr 10 \* 4`
 
 > The `*` must be escaped with `\` because it has a special meaning in Bash.
+
+
+In Bash scripting, the
+
+`if` statement is a fundamental control structure that executes a block of code based on whether a given condition is true (exit status zero) or false (non-zero). The structure must always end with `fi`. 
+
+Basic Syntax
+
+The most basic `if` statement syntax is:
+
+bash
+
+```
+if [ condition ]; then
+  # Commands to execute if the condition is true
+fi
+```
+
+**Key rules:**
+
+- `if`, `then`, `else`, `elif`, and `fi` are shell keywords and must appear as the first word on a line or be separated from the previous statement by a semicolon `;`.
+- Spaces are required inside the square brackets: `[ condition ]` is correct, `[condition]` is not.
+- It is a good practice to quote variables within conditions to avoid issues with spaces or empty values (e.g., `[ "$var" -eq 1 ]`). 
+
+Types of If Statements
+
+|Statement|Description|Syntax Example|
+|---|---|---|
+|**If**|Executes commands if the condition is true.|`if [ "$num" -gt 10 ]; then echo "Greater"; fi`|
+|**If-Else**|Executes one block if true, a different block if false.|`if [ "$num" -gt 10 ]; then echo "Greater"; else echo "Less than or equal"; fi`|
+|**If-Elif-Else**|Checks multiple conditions sequentially. The first one that is true gets executed.|`if [ "$num" -gt 10 ]; then echo "Greater"; elif [ "$num" -eq 10 ]; then echo "Equal"; else echo "Less than"; fi`|
+
+Common Conditional Expressions
+
+Conditions use test operators within `[ ]` (or the more modern `[[ ]]`) or `(( ))` for arithmetic operations. 
+
+|Category|Operator|Meaning|Example|
+|---|---|---|---|
+|**Numeric**|`-eq`|Equal to|`[ "$a" -eq "$b" ]`|
+||`-ne`|Not equal to|`[ "$a" -ne "$b" ]`|
+||`-gt`|Greater than|`[ "$a" -gt "$b" ]`|
+||`-lt`|Less than|`[ "$a" -lt "$b" ]`|
+||`-ge`|Greater than or equal to|`[ "$a" -ge "$b" ]`|
+||`-le`|Less than or equal to|`[ "$a" -le "$b" ]`|
+|**String**|`=` or `==`|Equal to|`[ "$s1" = "$s2" ]`|
+||`!=`|Not equal to|`[ "$s1" != "$s2" ]`|
+||`-z`|String is empty|`[ -z "$s1" ]`|
+||`-n`|String is not empty|`[ -n "$s1" ]`|
+|**File**|`-f`|Exists and is a regular file|`[ -f "$file" ]`|
+||`-d`|Exists and is a directory|`[ -d "$file" ]`|
+||`-e`|File exists|`[ -e "$file" ]`|
+
+Multiple Conditions
+
+Use logical operators to combine conditions. 
+
+- **AND:** Use `&&` with `[[ ]]` or `-a` with `[ ]`.
+- **OR:** Use `||` with `[[ ]]` or `-o` with `[ ]`. 
+
+bash
+
+```
+if [[ "$num" -gt 5 && "$num" -lt 10 ]]; then
+  echo "Number is between 5 and 10"
+fi
+```
