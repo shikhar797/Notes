@@ -187,3 +187,32 @@ if [[ "$num" -gt 5 && "$num" -lt 10 ]]; then
   echo "Number is between 5 and 10"
 fi
 ```
+
+
+### 🔹 Exit Code
+
+Exit codes are numeric values returned when a command is terminated.  
+They indicate whether the command **executed successfully or failed due to some error**.
+
+- `0` → command executed successfully
+    
+- `non-zero` → command failed
+    
+
+To check the exit code of the last executed command:
+
+`echo $?`
+
+Exit codes are commonly used in **shell scripts** to make decisions using conditions.
+
+---
+
+### 🔹 Redirection
+
+Redirection is used to **redirect output or error messages** of a command to a file instead of displaying them on the terminal.  
+It is mainly used for **logging output** or **hiding unwanted messages**.
+
+Example:
+
+`command > output.txt`  -> this overrides the file
+`command >> error.txt`  -> this appends the file 
