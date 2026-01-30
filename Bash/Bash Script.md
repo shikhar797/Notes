@@ -216,3 +216,6 @@ Example:
 
 `command > output.txt`  -> this overrides the file
 `command >> error.txt`  -> this appends the file 
+
+
+nano .bashrc -> this is for editing the path for some bash related stuff
