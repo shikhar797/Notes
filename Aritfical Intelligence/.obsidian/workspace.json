@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random state in train test split.md",
+                "file": "Steps before applying any algorithm in data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random state in train test split"
+              "title": "Steps before applying any algorithm in data"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "c6a77307035c652d",
   "lastOpenFiles": [
-    "Spliting data inti test and train.md",
     "Random state in train test split.md",
+    "Spliting data inti test and train.md",
     "Multiple Linear Regression.md",
     "Pasted image 20260131110926.png",
     "Overfitting and Underfitting.md",
