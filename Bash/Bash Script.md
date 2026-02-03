@@ -219,3 +219,9 @@ Example:
 
 
 nano .bashrc -> this is for editing the path for some bash related stuff
+
+
+```
+sudo su - 
+```
+this command  is used for going to root or sudo
