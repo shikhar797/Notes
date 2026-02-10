@@ -107,3 +107,6 @@ If house prices vary a lot and:
     
 - **R²**: “How well does my model explain the data?”
     
+
+
+and one more important thing accuracy_score is for classification where as r square and mean square error (mse) is for regression

@@ -198,3 +198,45 @@ Why?
     
 
 ---
+
+## 📊 Feature Scaling: When Needed vs Not Needed
+
+### ✅ Feature Scaling **NEEDED / STRONGLY RECOMMENDED**
+
+|Model|Why scaling is needed|
+|---|---|
+|**Linear Regression (Gradient Descent)**|Faster & stable convergence|
+|**Logistic Regression**|Uses gradient descent|
+|**Ridge Regression**|Regularization depends on coefficient size|
+|**Lasso Regression**|Feature selection depends on scale|
+|**ElasticNet**|Combination of Ridge + Lasso|
+|**Support Vector Machine (SVM)**|Distance + margin based|
+|**KNN (K-Nearest Neighbors)**|Purely distance based|
+|**K-Means Clustering**|Uses Euclidean distance|
+|**PCA**|Variance is scale dependent|
+|**Neural Networks**|Stable gradients & faster training|
+|**Perceptron**|Gradient-based|
+|**SGDClassifier / SGDRegressor**|Gradient descent|
+|**DBSCAN**|Density & distance based|
+
+📌 **Rule of thumb**
+
+> If the model uses **distance, gradients, or regularization**, scaling is needed.
+
+---
+
+### ❌ Feature Scaling **NOT REQUIRED**
+
+| Model                                            | Why scaling not needed             |
+| ------------------------------------------------ | ---------------------------------- |
+| **Simple Linear Regression (Normal Equation)**   | Closed-form solution               |
+| **Multiple Linear Regression (Normal Equation)** | Scale-invariant predictions        |
+| **Decision Tree**                                | Uses thresholds, not distance      |
+| **Random Forest**                                | Ensemble of trees                  |
+| **Extra Trees**                                  | Tree-based splits                  |
+| **XGBoost**                                      | Tree-based                         |
+| **LightGBM**                                     | Tree-based                         |
+| **CatBoost**                                     | Tree-based                         |
+| **AdaBoost (Tree-based)**                        | Tree learners                      |
+| **Naive Bayes**                                  | Probabilistic (not distance-based) |
+|                                                  |                                    |
