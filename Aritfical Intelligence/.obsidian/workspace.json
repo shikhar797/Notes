@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
+                "file": "Over stemming and under stemming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difference between 'transform' and 'fit_transform' in sklearn-Python?"
+              "title": "Over stemming and under stemming"
             }
           }
         ],
@@ -200,9 +200,10 @@
   },
   "active": "51c15e8c45407de1",
   "lastOpenFiles": [
+    "lemmatizer.md",
+    "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "Feature Scaling.md",
     "Difference in mse and r square.md",
-    "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "logistic regression/Logistic Regression.md",
     "Multiple Linear Regression/Multiple Linear Regression.md",
     "logistic regression/logistic_regression_vs_linear_regression.webp",
@@ -220,7 +221,6 @@
     "Encoding Categorical Data.md",
     "Categorical Data Independent and dependent Variable.md",
     "Application of Machine Learning.md",
-    "lemmatizer.md",
     "Support vector regression.md",
     "Pasted image 20260204111943.png",
     "Pasted image 20260204111905.png",
