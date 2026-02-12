@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature Scaling.md",
+                "file": "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Scaling"
+              "title": "Difference between 'transform' and 'fit_transform' in sklearn-Python?"
             }
           }
         ],
@@ -200,12 +200,12 @@
   },
   "active": "51c15e8c45407de1",
   "lastOpenFiles": [
+    "Feature Scaling.md",
     "Difference in mse and r square.md",
     "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "logistic regression/Logistic Regression.md",
     "Multiple Linear Regression/Multiple Linear Regression.md",
     "logistic regression/logistic_regression_vs_linear_regression.webp",
-    "Feature Scaling.md",
     "Mean Squared Error.md",
     "Random Forest.md",
     "R square.md",
