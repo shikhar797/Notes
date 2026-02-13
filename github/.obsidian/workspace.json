@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other important stuff.md",
+                "file": "Git Pull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Other important stuff"
+              "title": "Git Pull"
             }
           }
         ],
@@ -269,8 +269,8 @@
   "lastOpenFiles": [
     "Git Push.md",
     "Other important stuff.md",
-    "Git Remote.md",
     "GITHUB.md",
+    "Git Remote.md",
     "Git Pull.md",
     "Git fetch.md",
     "Git Pull vs Git Fetch.md",

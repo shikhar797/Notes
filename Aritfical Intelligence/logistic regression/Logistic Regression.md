@@ -26,3 +26,7 @@ Understanding the assumptions behind logistic regression is important to ensure 
 
 - If the sigmoid output is same or above the threshold, the input is classified as Class 1.
 - If it is below the threshold, the input is classified as Class 0.
+
+
+![[Pasted image 20260213163212.png]]
+

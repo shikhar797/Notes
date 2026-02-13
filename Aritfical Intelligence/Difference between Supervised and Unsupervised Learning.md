@@ -1,0 +1,10 @@
+The difference between supervised and unsupervised ****learning lies in how they use data and their goals****. ****Supervised learning**** relies on ****labeled datasets, where each input is paired with a corresponding output label****. The goal is to learn the relationship between inputs and outputs so the model can predict outcomes for new data, such as classifying emails as spam or not spam. In contrast, ****unsupervised learning**** works ****with unlabeled data aiming to uncover hidden patterns or structures within the dataset**** such as grouping customers based on their shopping habits or detecting anomalies in a dataset.
+
+
+| ****Aspect****            | Supervised Learning                                                                                       | ****Unsupervised**** ****Learning****                               |
+| ------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Input Data                | Uses labeled data (input features + corresponding outputs).                                               | Uses unlabeled data (only input features, no outputs).              |
+| ****Goal****              | Predicts outcomes or classifies data based on known labels.                                               | Discovers hidden patterns, structures, or groupings in data.        |
+| Computational Complexity  | Less complex, as the model learns from labeled data with clear guidance.                                  | More complex, as the model must find patterns without any guidance. |
+| Types                     | Two types : ****Classification**** (for discrete outputs) or ****regression**** (for continuous outputs). | Clustering and ****association****                                  |
+| ****Testing the Model**** | Model can be tested and evaluated using labeled test data.                                                | Cannot be tested in the traditional sense, as there are no labels   |
