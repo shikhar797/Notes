@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "749b0eecbdce882d",
+        "id": "b593cffbfcfd55c4",
         "type": "tabs",
         "children": [
           {
-            "id": "48de63a73d3bfba5",
+            "id": "56f8fdf790e934c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logistic regression/Logistic Regression.md",
+                "file": "KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression"
-            }
-          },
-          {
-            "id": "5d1d4dee53e92021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Confussion Matrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Confussion Matrix"
-            }
-          },
-          {
-            "id": "e1dafa4511e003b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accuracy Paradox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Accuracy Paradox"
+              "title": "KNN"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,47 +183,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "e1dafa4511e003b6",
+  "active": "56f8fdf790e934c1",
   "lastOpenFiles": [
-    "Pasted image 20260213183048.png",
-    "Confussion Matrix.md",
-    "Accuracy Paradox.md",
-    "predicted_condition_2_.webp",
-    "logistic regression/Logistic Regression.md",
-    "Pasted image 20260213163212.png",
-    "Difference between Supervised and Unsupervised Learning.md",
-    "Over stemming and under stemming.md",
-    "lemmatizer.md",
-    "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
+    "Classification/CAP.md",
+    "KNN.md",
+    "images/Pasted image 20260216180337.png",
+    "Classification/Confussion Matrix.md",
+    "Machine Learning.md",
     "Feature Scaling.md",
     "Difference in mse and r square.md",
+    "Difference between Supervised and Unsupervised Learning.md",
+    "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
+    "images/Pasted image 20260111231401.png",
+    "images/Pasted image 20260111232419.png",
+    "images/Pasted image 20260111231146.png",
+    "images/Pasted image 20260213183048.png",
+    "images",
+    "Untitled 1.md",
+    "images/Pasted image 20260213163212.png",
+    "Polynomial Regressiion/Polynomial Regression.md",
+    "images/predicted_condition_2_.webp",
+    "images/Pasted image 20260112003218.png",
+    "Simple Linear Regression/Pasted image 20260112002510.png",
+    "images/Pasted image 20260111235832.png",
+    "Classification/Accuracy Paradox.md",
+    "Classification",
+    "logistic regression/Logistic Regression.md",
+    "Over stemming and under stemming.md",
+    "lemmatizer.md",
     "Multiple Linear Regression/Multiple Linear Regression.md",
-    "logistic regression/logistic_regression_vs_linear_regression.webp",
     "Mean Squared Error.md",
     "Random Forest.md",
     "R square.md",
-    "Pasted image 20260210060246.png",
     "Desicion Tree.md",
     "Overfitting and Underfitting.md",
-    "Polynomial Regression.md",
     "Steps before applying any algorithm in data.md",
     "Spliting data inti test and train.md",
     "Simple Linear Regression/Intro To Simple Linear Regression.md",
     "Encoding Categorical Data.md",
     "Categorical Data Independent and dependent Variable.md",
     "Application of Machine Learning.md",
-    "Support vector regression.md",
-    "Pasted image 20260204111943.png",
-    "Pasted image 20260204111905.png",
     "support vector regreession",
-    "Pasted image 20260204004538.png",
     "Polynomial Regressiion",
-    "Random state in train test split.md",
-    "Pasted image 20260131110926.png",
     "Multiple Linear Regression",
-    "Simple Linear Regression/challenges_in_linear_regression.webp",
-    "Sikit-learn or Sklearn.md",
-    "Pasted image 20260115165025.png",
     "Simple Linear Regression"
   ]
 }
