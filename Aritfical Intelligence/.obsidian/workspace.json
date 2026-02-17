@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KNN.md",
+                "file": "Difference in mse and r square.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KNN"
+              "title": "Difference in mse and r square"
             }
           }
         ]
@@ -185,14 +185,14 @@
   },
   "active": "56f8fdf790e934c1",
   "lastOpenFiles": [
-    "Classification/CAP.md",
+    "Difference between Supervised and Unsupervised Learning.md",
     "KNN.md",
+    "Classification/CAP.md",
     "images/Pasted image 20260216180337.png",
     "Classification/Confussion Matrix.md",
     "Machine Learning.md",
     "Feature Scaling.md",
     "Difference in mse and r square.md",
-    "Difference between Supervised and Unsupervised Learning.md",
     "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "images/Pasted image 20260111231401.png",
     "images/Pasted image 20260111232419.png",
