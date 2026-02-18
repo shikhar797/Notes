@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b593cffbfcfd55c4",
+        "id": "04568084fe63539b",
         "type": "tabs",
         "children": [
           {
-            "id": "56f8fdf790e934c1",
+            "id": "742f69f4eeb93f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Difference in mse and r square.md",
+                "file": "Classification/SVM kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difference in mse and r square"
+              "title": "SVM kernel"
             }
           }
         ]
@@ -183,17 +183,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "56f8fdf790e934c1",
+  "active": "742f69f4eeb93f51",
   "lastOpenFiles": [
-    "Difference between Supervised and Unsupervised Learning.md",
-    "KNN.md",
+    "images/svmkernel.jpeg",
+    "Error and accuracy check.md",
+    "Classification/SVM kernel.md",
+    "U",
+    "error and accuracy",
+    "preprocessing/Sikit-learn or Sklearn.md",
+    "Regressionn/Desicion Tree.md",
+    "NLP",
+    "preprocessing",
+    "Regressionn/Support vector regression.md",
+    "error and accuracy/Difference in mse and r square.md",
+    "Regressionn",
+    "preprocessing/Difference between Supervised and Unsupervised Learning.md",
+    "Classification/KNN.md",
     "Classification/CAP.md",
     "images/Pasted image 20260216180337.png",
     "Classification/Confussion Matrix.md",
-    "Machine Learning.md",
-    "Feature Scaling.md",
-    "Difference in mse and r square.md",
-    "Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
+    "preprocessing/Machine Learning.md",
+    "preprocessing/Feature Scaling.md",
+    "preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "images/Pasted image 20260111231401.png",
     "images/Pasted image 20260111232419.png",
     "images/Pasted image 20260111231146.png",
@@ -201,31 +212,24 @@
     "images",
     "Untitled 1.md",
     "images/Pasted image 20260213163212.png",
-    "Polynomial Regressiion/Polynomial Regression.md",
+    "Regressionn/Polynomial Regressiion/Polynomial Regression.md",
     "images/predicted_condition_2_.webp",
     "images/Pasted image 20260112003218.png",
-    "Simple Linear Regression/Pasted image 20260112002510.png",
+    "Regressionn/Simple Linear Regression/Pasted image 20260112002510.png",
     "images/Pasted image 20260111235832.png",
     "Classification/Accuracy Paradox.md",
     "Classification",
-    "logistic regression/Logistic Regression.md",
-    "Over stemming and under stemming.md",
-    "lemmatizer.md",
-    "Multiple Linear Regression/Multiple Linear Regression.md",
-    "Mean Squared Error.md",
-    "Random Forest.md",
-    "R square.md",
-    "Desicion Tree.md",
-    "Overfitting and Underfitting.md",
-    "Steps before applying any algorithm in data.md",
-    "Spliting data inti test and train.md",
-    "Simple Linear Regression/Intro To Simple Linear Regression.md",
-    "Encoding Categorical Data.md",
-    "Categorical Data Independent and dependent Variable.md",
-    "Application of Machine Learning.md",
-    "support vector regreession",
-    "Polynomial Regressiion",
-    "Multiple Linear Regression",
-    "Simple Linear Regression"
+    "Regressionn/logistic regression/Logistic Regression.md",
+    "NLP/Over stemming and under stemming.md",
+    "NLP/lemmatizer.md",
+    "Regressionn/Multiple Linear Regression/Multiple Linear Regression.md",
+    "error and accuracy/Mean Squared Error.md",
+    "Regressionn/Random Forest.md",
+    "error and accuracy/R square.md",
+    "preprocessing/Overfitting and Underfitting.md",
+    "preprocessing/Steps before applying any algorithm in data.md",
+    "Regressionn/support vector regreession",
+    "Regressionn/Polynomial Regressiion",
+    "Regressionn/Multiple Linear Regression"
   ]
 }
