@@ -12,3 +12,6 @@ Naive Bayes is a machine learning classification algorithm that predicts the cat
 
 
 - Another limitation of this algorithm is the assumption of independent predictors. In real life, it is almost impossible that we get a set of predictors which are completely independent.
+
+
+No need of doing feature scaling because this is based on probability not on distance .

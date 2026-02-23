@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "888d45e441e21685",
+    "id": "cd61753ffe95b4f8",
     "type": "split",
     "children": [
       {
-        "id": "66e11100c95559e1",
+        "id": "d8865e63e65d49d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e9b38b91ca881f",
+            "id": "e237535cace976b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsupervised Learning/Clustering/K-means clustering.md",
+                "file": "Introduction to Data Science/What is Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-means clustering"
+              "title": "What is Data Science"
+            }
+          },
+          {
+            "id": "4ca8440dd916aeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Data Science/Life cycle of Data science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Life cycle of Data science"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "46a3a186798a0a7f",
+    "id": "2a1daf45dff3d58e",
     "type": "split",
     "children": [
       {
-        "id": "3c28c1d43c906e9a",
+        "id": "a2142245675bb318",
         "type": "tabs",
         "children": [
           {
-            "id": "cc932f3f3a88be40",
+            "id": "76ca9458b66b1181",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "999ff5025580a005",
+            "id": "424301f75637636f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "ee98e73b047457a2",
+            "id": "c2d4476f9bb1a233",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "0cd2011caca32265",
+    "id": "f5eecbd331c95e97",
     "type": "split",
     "children": [
       {
-        "id": "7b82223b82345257",
+        "id": "c2f1f46b9f1ce2de",
         "type": "tabs",
         "children": [
           {
-            "id": "45bb060515666bf2",
+            "id": "cce45f274f6659c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simple Linear Regression/Intro To Simple Linear Regression.md",
+                "file": "Introduction to Data Science/Life cycle of Data science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro To Simple Linear Regression"
+              "title": "Backlinks for Life cycle of Data science"
             }
           },
           {
-            "id": "a8b7b781fdf69d9a",
+            "id": "27b4ea3e28a1cc11",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Introduction to Data Science/Life cycle of Data science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Machine Learning"
+              "title": "Outgoing links from Life cycle of Data science"
             }
           },
           {
-            "id": "184189d80c386bee",
+            "id": "a66342d4b3db2062",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +152,7 @@
             }
           },
           {
-            "id": "2ba23f3263ca51b7",
+            "id": "4209a3326e3e5e4d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +166,18 @@
             }
           },
           {
-            "id": "5e0dbb7d8609af5d",
+            "id": "321524573c1b2b29",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning.md",
+                "file": "Introduction to Data Science/Life cycle of Data science.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Machine Learning"
+              "title": "Outline of Life cycle of Data science"
             }
           }
         ]
@@ -183,53 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "b9e9b38b91ca881f",
+  "active": "76ca9458b66b1181",
   "lastOpenFiles": [
-    "Unsupervised Learning/Clustering/Random Intilization Trap.md",
-    "Machine Learning and Preprocessing/Unsupervised and supervised learning.md",
-    "Unsupervised Learning/Clustering/K-means clustering.md",
-    "error and accuracy/Confussion Matrix.md",
-    "images/RandomIntilizationTrap.jpg",
-    "Untitled.canvas",
-    "images/Pasted image 20260223175716.png",
-    "Unsupervised Learning",
-    "SupervisedLearning",
-    "Unsupervised Learning/Clustering",
-    "images/supervisedandUnsupervised.jpg",
-    "SupervisedLearning/Classification/Naive Bayes.md",
-    "Machine Learning and Preprocessing/Machine Learning.md",
-    "images/Pasted image 20260223100920.png",
-    "SupervisedLearning/Classification/Accuracy Paradox.md",
-    "SupervisedLearning/Classification/SVM kernel.md",
-    "images/svmkernel.jpeg",
-    "Error and accuracy check.md",
-    "U",
-    "error and accuracy",
-    "Machine Learning and Preprocessing/Sikit-learn or Sklearn.md",
-    "SupervisedLearning/Regressionn/Desicion Tree.md",
-    "NLP",
-    "Machine Learning and Preprocessing",
-    "SupervisedLearning/Regressionn/Support vector regression.md",
-    "error and accuracy/Difference in mse and r square.md",
-    "SupervisedLearning/Regressionn",
-    "Machine Learning and Preprocessing/Difference between Supervised and Unsupervised Learning.md",
-    "SupervisedLearning/Classification/KNN.md",
-    "SupervisedLearning/Classification/CAP.md",
-    "images/Pasted image 20260216180337.png",
-    "Machine Learning and Preprocessing/Feature Scaling.md",
-    "Machine Learning and Preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
-    "images/Pasted image 20260111231401.png",
-    "images/Pasted image 20260111232419.png",
-    "images/Pasted image 20260111231146.png",
-    "images/Pasted image 20260213183048.png",
-    "images",
-    "Untitled 1.md",
-    "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
-    "SupervisedLearning/Classification",
-    "SupervisedLearning/Regressionn/logistic regression/Logistic Regression.md",
-    "NLP/Over stemming and under stemming.md",
-    "NLP/lemmatizer.md",
-    "SupervisedLearning/Regressionn/Multiple Linear Regression/Multiple Linear Regression.md",
-    "error and accuracy/Mean Squared Error.md"
+    "Introduction to Data Science/What is Data Science.md",
+    "Introduction to Data Science/Life cycle of Data science.md",
+    "Images/what is data science.png",
+    "Images",
+    "Introduction to Data Science"
   ]
 }
