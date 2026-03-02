@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life Cycle of Machine Learning.md",
+                "file": "Machine Learning and Preprocessing/Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Life Cycle of Machine Learning"
+              "title": "Machine Learning"
             }
           }
         ],
@@ -256,8 +256,8 @@
   },
   "active": "2f56b18004b445c1",
   "lastOpenFiles": [
-    "Reinforcement Learning/Upper Confidence Bound.md",
     "Life Cycle of Machine Learning.md",
+    "Reinforcement Learning/Upper Confidence Bound.md",
     "Reinforcement Learning/Multi Armed Bandit Problem.md",
     "Unsupervised Learning/Association/ECLAT.md",
     "Reinforcement Learning",
