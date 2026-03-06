@@ -1,7 +1,7 @@
 ![[Pasted image 20260131110926.png]]
 
 
-## Multicollinearity Problem in Multilple linear Regression
+## Multicollinearity Problem in Multiple linear Regression
 ### Multicollinearity in Multiple Linear Regression
 
 Multicollinearity arises when two or more independent variables are highly correlated with each other. This can make it difficult to find the individual contribution of each variable to the dependent variable.
