@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
+                "file": "SupervisedLearning/Classification/KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polynomial Regression"
+              "title": "KNN"
             }
           },
           {
@@ -294,8 +294,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc932f3f3a88be40",
+  "active": "7683b2ec6041c2a7",
   "lastOpenFiles": [
+    "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
     "SupervisedLearning/Regressionn/Multiple Linear Regression/Multiple Linear Regression.md",
     "SupervisedLearning/Regressionn/Simple Linear Regression/Intro To Simple Linear Regression.md",
     "Machine Learning and Preprocessing/Overfitting and Underfitting.md",
@@ -326,7 +327,6 @@
     "Unsupervised Learning/Association/Apriori.md",
     "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
     "Unsupervised Learning/Association",
-    "Unsupervised Learning/Clustering/Random Intilization Trap.md",
     "images/RandomIntilizationTrap.jpg",
     "Untitled.canvas",
     "images/Pasted image 20260223175716.png",
