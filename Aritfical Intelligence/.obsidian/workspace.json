@@ -4,131 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "66e11100c95559e1",
+        "id": "c7aee42295617362",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e9b38b91ca881f",
+            "id": "e22577e5f877e35f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsupervised Learning/Clustering/K-means clustering.md",
+                "file": "NLP/Stop words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-means clustering"
+              "title": "Stop words"
             }
           },
           {
-            "id": "7683b2ec6041c2a7",
+            "id": "cf50463eb012b47f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SupervisedLearning/Classification/KNN.md",
+                "file": "Deep Learning/Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KNN"
-            }
-          },
-          {
-            "id": "d6b4ab48f4001332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hierarchical Clutsering"
-            }
-          },
-          {
-            "id": "208c3bf12e3e76b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsupervised Learning/Association/ECLAT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ECLAT"
-            }
-          },
-          {
-            "id": "c9778ff322e1ddb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Multi Armed Bandit Problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multi Armed Bandit Problem"
-            }
-          },
-          {
-            "id": "2f4ed7139913499f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reinforcement Learning/Upper Confidence Bound.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Upper Confidence Bound"
-            }
-          },
-          {
-            "id": "2f56b18004b445c1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/what is stemming.png"
-              },
-              "icon": "lucide-image",
-              "title": "what is stemming"
-            }
-          },
-          {
-            "id": "88f307d89dac608e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/Stemming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stemming"
-            }
-          },
-          {
-            "id": "1cfb3982c9bafbec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning and Preprocessing/Life Cycle of Machine Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Life Cycle of Machine Learning"
+              "title": "Deep Learning"
             }
           }
         ],
@@ -294,8 +198,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "7683b2ec6041c2a7",
+  "active": "cf50463eb012b47f",
   "lastOpenFiles": [
+    "images/Pasted image 20260306210810.png",
+    "NLP/Stop words.md",
+    "Deep Learning/Deep Learning.md",
+    "Deep Learning",
+    "Machine Learning and Preprocessing/Life Cycle of Machine Learning.md",
+    "NLP/Stemming.md",
+    "images/what is stemming.png",
+    "Reinforcement Learning/Upper Confidence Bound.md",
+    "Reinforcement Learning/Multi Armed Bandit Problem.md",
+    "Unsupervised Learning/Association/ECLAT.md",
+    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
+    "error and accuracy/Confussion Matrix.md",
+    "SupervisedLearning/Classification/Accuracy Paradox.md",
+    "SupervisedLearning/Classification/SVM kernel.md",
+    "SupervisedLearning/Classification/Naive Bayes.md",
+    "SupervisedLearning/Classification/CAP.md",
+    "SupervisedLearning/Classification/KNN.md",
     "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
     "SupervisedLearning/Regressionn/Multiple Linear Regression/Multiple Linear Regression.md",
     "SupervisedLearning/Regressionn/Simple Linear Regression/Intro To Simple Linear Regression.md",
@@ -307,25 +228,9 @@
     "Machine Learning and Preprocessing/Difference between Supervised and Unsupervised Learning.md",
     "Machine Learning and Preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "Machine Learning and Preprocessing/Spliting data inti test and train.md",
-    "Machine Learning and Preprocessing/Categorical Data Independent and dependent Variable.md",
-    "NLP/Stemming.md",
-    "Stop words.md",
-    "Unsupervised Learning/Clustering/K-means clustering.md",
-    "Machine Learning and Preprocessing/Life Cycle of Machine Learning.md",
-    "NLP/Stop words.md",
-    "NLP/Bag of Words Model.md",
-    "images/what is stemming.png",
     "images/Pasted image 20260302100030.png",
-    "NLP/lemmatizer.md",
-    "NLP/Over stemming and under stemming.md",
-    "Reinforcement Learning/Upper Confidence Bound.md",
-    "Machine Learning and Preprocessing/Machine Learning.md",
-    "Reinforcement Learning/Multi Armed Bandit Problem.md",
-    "Unsupervised Learning/Association/ECLAT.md",
     "Reinforcement Learning",
     "images/Pasted image 20260224080649.png",
-    "Unsupervised Learning/Association/Apriori.md",
-    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
     "Unsupervised Learning/Association",
     "images/RandomIntilizationTrap.jpg",
     "Untitled.canvas",
@@ -340,7 +245,6 @@
     "error and accuracy",
     "NLP",
     "Machine Learning and Preprocessing",
-    "SupervisedLearning/Regressionn",
     "images/Pasted image 20260216180337.png",
     "images/Pasted image 20260111231401.png"
   ]
