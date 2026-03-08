@@ -2,3 +2,9 @@ Gradient Descent is an optimisation algorithm used to minimize a model’s erro
 
 - Essential for training neural networks and regression models
 - Works by updating parameters based on calculated gradients
+- ![[Pasted image 20260308122944.png]]
+
+
+# Stochastic Gradient Descent
+
+Stochastic Gradient Descent is a method that updates model weights using one random data point at a time to reduce prediction error.
