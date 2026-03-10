@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Back Propagation.md",
+                "file": "SupervisedLearning/Classification/logistic regression/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Back Propagation"
+              "title": "Logistic Regression"
             }
           }
         ],
@@ -256,8 +256,9 @@
   },
   "active": "cc932f3f3a88be40",
   "lastOpenFiles": [
-    "Deep Learning/Gradient Descent.md",
+    "SupervisedLearning/Classification/Naive Bayes.md",
     "Deep Learning/Back Propagation.md",
+    "Deep Learning/Gradient Descent.md",
     "images/Pasted image 20260308122944.png",
     "Deep Learning/Activation Function in Neural Network.md",
     "Deep Learning/what is neuron.md",
@@ -276,7 +277,6 @@
     "error and accuracy/Confussion Matrix.md",
     "SupervisedLearning/Classification/Accuracy Paradox.md",
     "SupervisedLearning/Classification/SVM kernel.md",
-    "SupervisedLearning/Classification/Naive Bayes.md",
     "SupervisedLearning/Classification/CAP.md",
     "SupervisedLearning/Classification/KNN.md",
     "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
