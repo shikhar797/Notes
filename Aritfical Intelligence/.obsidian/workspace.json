@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SupervisedLearning/Classification/logistic regression/Logistic Regression.md",
+                "file": "SupervisedLearning/Classification/KNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression"
+              "title": "KNN"
             }
           }
         ],
@@ -254,8 +254,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc932f3f3a88be40",
+  "active": "c7f65dd789410a95",
   "lastOpenFiles": [
+    "SupervisedLearning/Classification/CAP.md",
+    "SupervisedLearning/Classification/Accuracy Paradox.md",
+    "SupervisedLearning/Classification/logistic regression/Logistic Regression.md",
     "SupervisedLearning/Classification/Naive Bayes.md",
     "Deep Learning/Back Propagation.md",
     "Deep Learning/Gradient Descent.md",
@@ -275,9 +278,7 @@
     "Unsupervised Learning/Association/ECLAT.md",
     "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
     "error and accuracy/Confussion Matrix.md",
-    "SupervisedLearning/Classification/Accuracy Paradox.md",
     "SupervisedLearning/Classification/SVM kernel.md",
-    "SupervisedLearning/Classification/CAP.md",
     "SupervisedLearning/Classification/KNN.md",
     "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
     "SupervisedLearning/Regressionn/Multiple Linear Regression/Multiple Linear Regression.md",
@@ -286,7 +287,6 @@
     "Machine Learning and Preprocessing/Steps before applying any algorithm in data.md",
     "Machine Learning and Preprocessing/Sikit-learn or Sklearn.md",
     "Machine Learning and Preprocessing/Random state in train test split.md",
-    "Machine Learning and Preprocessing/Encoding Categorical Data.md",
     "images/Pasted image 20260302100030.png",
     "Reinforcement Learning",
     "images/Pasted image 20260224080649.png",
