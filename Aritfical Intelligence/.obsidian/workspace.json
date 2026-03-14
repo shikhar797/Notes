@@ -90,9 +90,37 @@
               "icon": "lucide-file",
               "title": "KNN"
             }
+          },
+          {
+            "id": "3b73c6094bed1c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataset ,label and features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dataset ,label and features"
+            }
+          },
+          {
+            "id": "3fd04e4bbf24b9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning and Preprocessing/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -254,12 +282,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "c7f65dd789410a95",
+  "active": "3fd04e4bbf24b9a3",
   "lastOpenFiles": [
-    "SupervisedLearning/Classification/CAP.md",
-    "SupervisedLearning/Classification/Accuracy Paradox.md",
-    "SupervisedLearning/Classification/logistic regression/Logistic Regression.md",
+    "Machine Learning and Preprocessing/Life Cycle of Machine Learning.md",
+    "Machine Learning and Preprocessing/Feature Scaling.md",
+    "Machine Learning and Preprocessing/Encoding Categorical Data.md",
+    "Machine Learning and Preprocessing/Difference between Supervised and Unsupervised Learning.md",
+    "Machine Learning and Preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
+    "Machine Learning and Preprocessing/Categorical Data Independent and dependent Variable.md",
+    "Machine Learning and Preprocessing/Application of Machine Learning.md",
+    "What is Cross Validation.md",
+    "Dataset ,label and features.md",
+    "images/components_of_a_dataset.webp",
+    "SupervisedLearning/Classification/SVM kernel.md",
     "SupervisedLearning/Classification/Naive Bayes.md",
+    "SupervisedLearning/Classification/Accuracy Paradox.md",
+    "SupervisedLearning/Classification/CAP.md",
+    "SupervisedLearning/Classification/KNN.md",
+    "SupervisedLearning/Classification/logistic regression/Logistic Regression.md",
     "Deep Learning/Back Propagation.md",
     "Deep Learning/Gradient Descent.md",
     "images/Pasted image 20260308122944.png",
@@ -270,23 +310,12 @@
     "images/Pasted image 20260306210810.png",
     "NLP/Stop words.md",
     "Deep Learning",
-    "Machine Learning and Preprocessing/Life Cycle of Machine Learning.md",
     "NLP/Stemming.md",
     "images/what is stemming.png",
     "Reinforcement Learning/Upper Confidence Bound.md",
     "Reinforcement Learning/Multi Armed Bandit Problem.md",
     "Unsupervised Learning/Association/ECLAT.md",
     "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
-    "error and accuracy/Confussion Matrix.md",
-    "SupervisedLearning/Classification/SVM kernel.md",
-    "SupervisedLearning/Classification/KNN.md",
-    "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
-    "SupervisedLearning/Regressionn/Multiple Linear Regression/Multiple Linear Regression.md",
-    "SupervisedLearning/Regressionn/Simple Linear Regression/Intro To Simple Linear Regression.md",
-    "Machine Learning and Preprocessing/Overfitting and Underfitting.md",
-    "Machine Learning and Preprocessing/Steps before applying any algorithm in data.md",
-    "Machine Learning and Preprocessing/Sikit-learn or Sklearn.md",
-    "Machine Learning and Preprocessing/Random state in train test split.md",
     "images/Pasted image 20260302100030.png",
     "Reinforcement Learning",
     "images/Pasted image 20260224080649.png",
@@ -298,7 +327,6 @@
     "SupervisedLearning",
     "Unsupervised Learning/Clustering",
     "images/supervisedandUnsupervised.jpg",
-    "images/Pasted image 20260223100920.png",
     "U",
     "error and accuracy",
     "NLP",

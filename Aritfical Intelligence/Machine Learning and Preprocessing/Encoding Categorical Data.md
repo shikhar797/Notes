@@ -23,11 +23,11 @@
 
 ## LabelEncoder vs OrdinalEncoder (VERY IMPORTANT)
 
-|Encoder|Used for|Where|
-|---|---|---|
-|LabelEncoder|Target variable|y|
-|OrdinalEncoder|Ordinal features|X|
-|OneHotEncoder|Nominal features|X|
+| Encoder        | Used for         | Where |
+| -------------- | ---------------- | ----- |
+| LabelEncoder   | Target variable  | y     |
+| OrdinalEncoder | Ordinal features | X     |
+| OneHotEncoder  | Nominal features | X     |
 
 #### LabelEncoder 
 
