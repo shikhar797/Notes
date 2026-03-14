@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning and Preprocessing/Machine Learning.md",
+                "file": "What is Cross Validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "What is Cross Validation"
             }
           }
         ],
@@ -284,6 +284,13 @@
   },
   "active": "3fd04e4bbf24b9a3",
   "lastOpenFiles": [
+    "Dataset ,label and features.md",
+    "What is Cross Validation.md",
+    "Machine Learning and Preprocessing/Sikit-learn or Sklearn.md",
+    "Machine Learning and Preprocessing/Spliting data inti test and train.md",
+    "Machine Learning and Preprocessing/Steps before applying any algorithm in data.md",
+    "Machine Learning and Preprocessing/Unsupervised and supervised learning.md",
+    "Machine Learning and Preprocessing/Machine Learning.md",
     "Machine Learning and Preprocessing/Life Cycle of Machine Learning.md",
     "Machine Learning and Preprocessing/Feature Scaling.md",
     "Machine Learning and Preprocessing/Encoding Categorical Data.md",
@@ -291,8 +298,6 @@
     "Machine Learning and Preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "Machine Learning and Preprocessing/Categorical Data Independent and dependent Variable.md",
     "Machine Learning and Preprocessing/Application of Machine Learning.md",
-    "What is Cross Validation.md",
-    "Dataset ,label and features.md",
     "images/components_of_a_dataset.webp",
     "SupervisedLearning/Classification/SVM kernel.md",
     "SupervisedLearning/Classification/Naive Bayes.md",
@@ -310,12 +315,7 @@
     "images/Pasted image 20260306210810.png",
     "NLP/Stop words.md",
     "Deep Learning",
-    "NLP/Stemming.md",
     "images/what is stemming.png",
-    "Reinforcement Learning/Upper Confidence Bound.md",
-    "Reinforcement Learning/Multi Armed Bandit Problem.md",
-    "Unsupervised Learning/Association/ECLAT.md",
-    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
     "images/Pasted image 20260302100030.png",
     "Reinforcement Learning",
     "images/Pasted image 20260224080649.png",
