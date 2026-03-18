@@ -4,137 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7aee42295617362",
+        "id": "4221a2bfa7643442",
         "type": "tabs",
         "children": [
           {
-            "id": "e22577e5f877e35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/Stop words.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stop words"
-            }
-          },
-          {
-            "id": "cf50463eb012b47f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Deep Learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deep Learning"
-            }
-          },
-          {
-            "id": "a228d362b8b7d695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/what is neuron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what is neuron"
-            }
-          },
-          {
-            "id": "a082c74365833866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Activation Function in Neural Network.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Activation Function in Neural Network"
-            }
-          },
-          {
-            "id": "c768732cab230ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Gradient Descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gradient Descent"
-            }
-          },
-          {
-            "id": "c7f65dd789410a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SupervisedLearning/Classification/KNN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KNN"
-            }
-          },
-          {
-            "id": "3b73c6094bed1c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataset ,label and features.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dataset ,label and features"
-            }
-          },
-          {
-            "id": "3fd04e4bbf24b9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning and Preprocessing/What is Cross Validation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is Cross Validation"
-            }
-          },
-          {
-            "id": "f543b2651659fdf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perceptron.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perceptron"
-            }
-          },
-          {
-            "id": "99634f05a40f1630",
+            "id": "80d8df63ffdad004",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,7 +22,7 @@
             }
           },
           {
-            "id": "2271162387c4b0a2",
+            "id": "bc10b0a6a1f74a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -324,14 +198,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "2271162387c4b0a2",
+  "active": "bc10b0a6a1f74a08",
   "lastOpenFiles": [
+    "Max Pooling.md",
     "Convolution in a CNN.md",
-    "Nominal AND Ordinal Data.md",
+    "Deep Learning/what is neuron.md",
+    "Deep Learning/Gradient Descent.md",
+    "Deep Learning/Deep Learning.md",
+    "Deep Learning/Back Propagation.md",
+    "Deep Learning/Activation Function in Neural Network.md",
+    "NLP/Stop words.md",
+    "SupervisedLearning/Classification/KNN.md",
+    "Machine Learning and Preprocessing/What is Cross Validation.md",
     "Perceptron.md",
+    "Nominal AND Ordinal Data.md",
     "images/Pasted image 20260316115415.png",
     "images/Pasted image 20260316115332.png",
-    "Machine Learning and Preprocessing/What is Cross Validation.md",
     "Machine Learning and Preprocessing/Dataset ,label and features.md",
     "Machine Learning and Preprocessing/Sikit-learn or Sklearn.md",
     "Machine Learning and Preprocessing/Spliting data inti test and train.md",
@@ -347,15 +229,7 @@
     "Machine Learning and Preprocessing/Application of Machine Learning.md",
     "images/components_of_a_dataset.webp",
     "SupervisedLearning/Classification/SVM kernel.md",
-    "SupervisedLearning/Classification/Naive Bayes.md",
-    "SupervisedLearning/Classification/Accuracy Paradox.md",
-    "SupervisedLearning/Classification/CAP.md",
-    "SupervisedLearning/Classification/KNN.md",
-    "SupervisedLearning/Classification/logistic regression/Logistic Regression.md",
-    "Deep Learning/Back Propagation.md",
-    "Deep Learning/Gradient Descent.md",
     "images/Pasted image 20260308122944.png",
-    "Deep Learning/Activation Function in Neural Network.md",
     "images/Pasted image 20260307125814.png",
     "images/Pasted image 20260306210810.png",
     "Deep Learning",
