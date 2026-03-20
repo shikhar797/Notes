@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nominal AND Ordinal Data.md",
+                "file": "Unsupervised Learning/Clustering/K-means clustering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nominal AND Ordinal Data"
+              "title": "K-means clustering"
             }
           }
         ],
@@ -200,6 +200,10 @@
   },
   "active": "bc10b0a6a1f74a08",
   "lastOpenFiles": [
+    "Unsupervised Learning/Clustering/Random Intilization Trap.md",
+    "Unsupervised Learning/Clustering/K-means clustering.md",
+    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
+    "Nominal AND Ordinal Data.md",
     "Max Pooling.md",
     "Convolution in a CNN.md",
     "Deep Learning/what is neuron.md",
@@ -211,7 +215,6 @@
     "SupervisedLearning/Classification/KNN.md",
     "Machine Learning and Preprocessing/What is Cross Validation.md",
     "Perceptron.md",
-    "Nominal AND Ordinal Data.md",
     "images/Pasted image 20260316115415.png",
     "images/Pasted image 20260316115332.png",
     "Machine Learning and Preprocessing/Dataset ,label and features.md",
@@ -225,10 +228,7 @@
     "Machine Learning and Preprocessing/Encoding Categorical Data.md",
     "Machine Learning and Preprocessing/Difference between Supervised and Unsupervised Learning.md",
     "Machine Learning and Preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
-    "Machine Learning and Preprocessing/Categorical Data Independent and dependent Variable.md",
-    "Machine Learning and Preprocessing/Application of Machine Learning.md",
     "images/components_of_a_dataset.webp",
-    "SupervisedLearning/Classification/SVM kernel.md",
     "images/Pasted image 20260308122944.png",
     "images/Pasted image 20260307125814.png",
     "images/Pasted image 20260306210810.png",
