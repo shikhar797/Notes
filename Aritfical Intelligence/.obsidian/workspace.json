@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsupervised Learning/Association/Apriori.md",
+                "file": "Deep Learning/Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apriori"
+              "title": "Deep Learning"
             }
           }
         ],
@@ -200,15 +200,16 @@
   },
   "active": "bc10b0a6a1f74a08",
   "lastOpenFiles": [
-    "Unsupervised Learning/Association/ECLAT.md",
+    "Deep Learning/what is neuron.md",
+    "Perceptron.md",
+    "Convolution in a CNN.md",
     "Unsupervised Learning/Association/Apriori.md",
+    "Unsupervised Learning/Association/ECLAT.md",
     "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
     "Unsupervised Learning/Clustering/K-means clustering.md",
     "Unsupervised Learning/Clustering/Random Intilization Trap.md",
     "Nominal AND Ordinal Data.md",
     "Max Pooling.md",
-    "Convolution in a CNN.md",
-    "Deep Learning/what is neuron.md",
     "Deep Learning/Gradient Descent.md",
     "Deep Learning/Deep Learning.md",
     "Deep Learning/Back Propagation.md",
@@ -216,7 +217,6 @@
     "NLP/Stop words.md",
     "SupervisedLearning/Classification/KNN.md",
     "Machine Learning and Preprocessing/What is Cross Validation.md",
-    "Perceptron.md",
     "images/Pasted image 20260316115415.png",
     "images/Pasted image 20260316115332.png",
     "Machine Learning and Preprocessing/Dataset ,label and features.md",
