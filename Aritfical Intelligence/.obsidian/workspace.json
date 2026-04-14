@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4221a2bfa7643442",
+        "id": "d03cc02a240a57e1",
         "type": "tabs",
         "children": [
           {
-            "id": "80d8df63ffdad004",
+            "id": "368d2e5ef718af94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolution in a CNN.md",
+                "file": "NLP/Part of Speech Tagging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convolution in a CNN"
-            }
-          },
-          {
-            "id": "bc10b0a6a1f74a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning and Preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Difference between 'transform' and 'fit_transform' in sklearn-Python?"
+              "title": "Part of Speech Tagging"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +183,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc10b0a6a1f74a08",
+  "active": "368d2e5ef718af94",
   "lastOpenFiles": [
+    "images/Part Of Speech Tagging.png",
+    "NLP/Part of Speech Tagging.md",
     "Nominal AND Ordinal Data.md",
+    "Perceptron.md",
+    "images/Single Neuron.png",
+    "images/Pasted image 20260302100030.png",
+    "images/Pasted image 20260216180337.png",
+    "images/what is neuron.png",
+    "images/Pasted image 20260223100920.png",
+    "images/Pasted image 20260308122944.png",
+    "images/Pasted image 20260316115332.png",
+    "images/Stop words.png",
+    "images/supervisedandUnsupervised.jpg",
+    "NLP/Stop words.md",
+    "NLP/Lemmetization vs Stemming.md",
+    "NLP/lemmatizer.md",
+    "Convolution in a CNN.md",
+    "NLP/Stemming.md",
+    "Machine Learning and Preprocessing/Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
     "Deep Learning/Deep Learning.md",
     "Deep Learning/what is neuron.md",
-    "Perceptron.md",
-    "Convolution in a CNN.md",
     "Unsupervised Learning/Association/Apriori.md",
     "Unsupervised Learning/Association/ECLAT.md",
     "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
@@ -214,31 +215,14 @@
     "Deep Learning/Gradient Descent.md",
     "Deep Learning/Back Propagation.md",
     "Deep Learning/Activation Function in Neural Network.md",
-    "NLP/Stop words.md",
     "SupervisedLearning/Classification/KNN.md",
     "Machine Learning and Preprocessing/What is Cross Validation.md",
-    "images/Pasted image 20260316115415.png",
-    "images/Pasted image 20260316115332.png",
     "Machine Learning and Preprocessing/Dataset ,label and features.md",
     "Machine Learning and Preprocessing/Sikit-learn or Sklearn.md",
     "Machine Learning and Preprocessing/Spliting data inti test and train.md",
-    "Machine Learning and Preprocessing/Steps before applying any algorithm in data.md",
-    "Machine Learning and Preprocessing/Unsupervised and supervised learning.md",
-    "Machine Learning and Preprocessing/Machine Learning.md",
-    "Machine Learning and Preprocessing/Life Cycle of Machine Learning.md",
-    "Machine Learning and Preprocessing/Feature Scaling.md",
-    "Machine Learning and Preprocessing/Encoding Categorical Data.md",
-    "images/components_of_a_dataset.webp",
-    "images/Pasted image 20260308122944.png",
-    "images/Pasted image 20260307125814.png",
-    "images/Pasted image 20260306210810.png",
     "Deep Learning",
-    "images/what is stemming.png",
-    "images/Pasted image 20260302100030.png",
     "Reinforcement Learning",
-    "images/Pasted image 20260224080649.png",
     "Unsupervised Learning/Association",
-    "images/RandomIntilizationTrap.jpg",
     "Untitled.canvas",
     "Unsupervised Learning",
     "SupervisedLearning",

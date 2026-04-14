@@ -4,7 +4,7 @@ distinct, non-overlapping subgroups (clusters) based on feature similarity. It i
 To determine the best number of cluster in the k-means clustering we will use the the elbow method which means where we get the elbow point we will choose that point as the number of cluster 
 
 for eg->
-![[Pasted image 20260223175716.png]]
+![[elow method for k means clustering.png]]
 so in the above figure we will choose 3 as the number of cluster because it the elbow point
 
 

@@ -2,7 +2,7 @@
 
 
 
-![[Pasted image 20260204111943.png]]
+![[Support Vector Machine.png]]
 
 
 Support Vector Regression (SVR) is basically the **regression version of Support Vector Machines (SVM)**.  

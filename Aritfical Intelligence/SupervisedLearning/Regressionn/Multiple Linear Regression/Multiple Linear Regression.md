@@ -1,4 +1,4 @@
-![[Pasted image 20260131110926.png]]
+![[Multiple Linear Regression.png]]
 
 
 ## Multicollinearity Problem in Multiple linear Regression

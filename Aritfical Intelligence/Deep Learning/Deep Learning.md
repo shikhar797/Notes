@@ -1,4 +1,4 @@
-![[Pasted image 20260306210810.png]]
+![[what is neuron.png]]
 
 
 Deep learning is ==a subset of machine learning based on artificial neural networks with multiple layers (hence "deep") that mimic the human brain to analyze complex, unstructured data==. It automates feature extraction to recognize patterns, powering technologies like image recognition, natural language processing, and generative AI.
