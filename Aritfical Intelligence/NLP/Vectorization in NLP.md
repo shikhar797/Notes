@@ -1,0 +1,3 @@
+
+![[Vectorization in NLP.png]]
+
