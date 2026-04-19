@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "09b6d03f75a845db",
+    "id": "78dca81b5dc2b153",
     "type": "split",
     "children": [
       {
-        "id": "157853d555200094",
+        "id": "0d5b8ed51e4408a9",
         "type": "tabs",
         "children": [
           {
-            "id": "da2687e2132b781b",
+            "id": "9463864adf2a4d8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "System Design Introductions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "System Design Introductions"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b42be91ad2edb093",
+    "id": "07dfb9ba7f8078a0",
     "type": "split",
     "children": [
       {
-        "id": "f692a152dbc8d3c1",
+        "id": "4612156a766cd4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d844dbd2e08ce5aa",
+            "id": "0fe3336e0e065b2d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "dba37d5f91ff718f",
+            "id": "960bb45780f4be14",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "031922c49b007a09",
+            "id": "97d821075154610d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "4808364f39a9b8b2",
+    "id": "056bfcff50444322",
     "type": "split",
     "children": [
       {
-        "id": "b57ec014f4d01e97",
+        "id": "d283ec8218bd3be4",
         "type": "tabs",
         "children": [
           {
-            "id": "99a88847eb136f02",
+            "id": "fe10898660f104ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System Design Introductions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for System Design Introductions"
             }
           },
           {
-            "id": "738d26cef5a5a36f",
+            "id": "d0b4b5d6e69ce179",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System Design Introductions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from System Design Introductions"
             }
           },
           {
-            "id": "3c3ec96f9c0efc6f",
+            "id": "5503c4c724687a5c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +137,7 @@
             }
           },
           {
-            "id": "fd85fcd04e9ede14",
+            "id": "05e844f76a6cb56c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,17 +151,18 @@
             }
           },
           {
-            "id": "842c2200539c91f8",
+            "id": "cf9098a343d2315e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "System Design Introductions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of System Design Introductions"
             }
           }
         ]
@@ -176,21 +183,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "da2687e2132b781b",
+  "active": "9463864adf2a4d8a",
   "lastOpenFiles": [
-    "GITHUB.md",
-    "Git Push.md",
-    "Git fetch.md",
-    "Delete last commited thing.md",
-    "Other important stuff.md",
-    "Git Remote.md",
-    "Git Pull.md",
-    "Git Pull vs Git Fetch.md",
-    "Pasted image 20260111114357.png",
-    "Pasted image 20260111105610.png",
-    "Pasted image 20260111105546.png",
-    "Pasted image 20260111105501.png",
-    "Pasted image 20260111103422.png",
-    "Pasted image 20260111102654.png"
+    "System Design Introductions.md"
   ]
 }
