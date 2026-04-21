@@ -1,0 +1,1 @@
+![[Common NLP technique.png]]
