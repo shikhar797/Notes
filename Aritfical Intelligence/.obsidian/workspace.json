@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/NMF(Non Negative Matrix Factorization).md",
+                "file": "Unsupervised Learning/Clustering/Random Intilization Trap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NMF(Non Negative Matrix Factorization)"
+              "title": "Random Intilization Trap"
             }
           }
         ],
@@ -240,17 +240,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc932f3f3a88be40",
+  "active": "cb6764afa10e6818",
   "lastOpenFiles": [
-    "images/NMF(Non-Negative Maxtrix Factorization).png",
-    "NLP/Common NLP technique.md",
-    "NLP/NMF(Non Negative Matrix Factorization).md",
-    "images/Common NLP technique.png",
-    "NLP/TF-IDF.md",
-    "images/Difference in CountVectorizer and TF-IDF.png",
+    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
     "NLP/Vectorization in NLP.md",
+    "NLP/TF-IDF.md",
+    "NLP/Stop words.md",
+    "NLP/Common NLP technique.md",
     "NLP/Document Term Matrix.md",
     "NLP/Bag of Words Model.md",
+    "NLP/NMF(Non Negative Matrix Factorization).md",
+    "images/NMF(Non-Negative Maxtrix Factorization).png",
+    "images/Common NLP technique.png",
+    "images/Difference in CountVectorizer and TF-IDF.png",
     "images/Document Term Matrix.png",
     "images/Vectorization in NLP.png",
     "NLP/Part of Speech Tagging.md",
@@ -261,8 +263,6 @@
     "images/Pasted image 20260302100030.png",
     "images/Pasted image 20260216180337.png",
     "images/what is neuron.png",
-    "images/Pasted image 20260223100920.png",
-    "NLP/Stop words.md",
     "NLP/Lemmetization vs Stemming.md",
     "NLP/lemmatizer.md",
     "Convolution in a CNN.md",
@@ -272,7 +272,6 @@
     "Deep Learning/what is neuron.md",
     "Unsupervised Learning/Association/Apriori.md",
     "Unsupervised Learning/Association/ECLAT.md",
-    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
     "Unsupervised Learning/Clustering/K-means clustering.md",
     "Unsupervised Learning/Clustering/Random Intilization Trap.md",
     "Max Pooling.md",
