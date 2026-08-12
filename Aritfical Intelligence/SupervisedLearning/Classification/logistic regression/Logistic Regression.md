@@ -5,6 +5,20 @@ Logistic Regression is a supervised machine learning algorithm used for classifi
 - It is used for binary classification where the output can be one of two possible categories such as Yes/No, True/False or 0/1.
 - It uses sigmoid function to convert inputs into a probability value between 0 and 1.![[logistic_regression_vs_linear_regression.webp]]
 
+
+```
+
+
+from sklearn.linear_model import LogisticRegression
+
+model = LogisticRegression()
+
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+```
+
+
 ## Assumptions of Logistic Regression
 
 Understanding the assumptions behind logistic regression is important to ensure the model is applied correctly, main assumptions are:

@@ -1,11 +1,24 @@
 
 ![[Pasted image 20260223100920.png]]
 
-Naive Bayes is a machine learning classification algorithm that predicts the category of a data point using probability. **It assumes that all features are independent of each other.** Naive Bayes performs well in many real-world applications such as spam filtering, document categorisation and sentiment analysis.
+Naive Bayes is a machine learning classification algorithm that predicts the category of a data point using probability. **It assumes that all features are independent of each other.** 
+
+Naive Bayes performs well in many real-world applications such as spam filtering, document categorisation and sentiment analysis.
 
 #### Note:-The naive Bayes classifier assumes that all features in the input data are independent of each other, i.e. all the columns in the data are independent to each other
 
+```
 
+from sklearn.naive_bayes import GaussianNB
+
+model = GaussianNB()
+
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+
+
+```
 
 #### Cons of Naive Bias is :
 

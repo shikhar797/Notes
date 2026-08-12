@@ -1,1 +1,0 @@
-![[lemmetization vs Stemming.png]]

@@ -4,81 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d03cc02a240a57e1",
+        "id": "888bf52c0f5efd5c",
         "type": "tabs",
         "children": [
           {
-            "id": "368d2e5ef718af94",
+            "id": "a40815e996722175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/Part of Speech Tagging.md",
+                "file": "SupervisedLearning/Classification/logistic regression/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part of Speech Tagging"
+              "title": "Logistic Regression"
             }
           },
           {
-            "id": "1c04f82e38272b47",
+            "id": "91f575d246c68eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/Vectorization in NLP.md",
+                "file": "Unsupervised Learning/Clustering/Random Intilization Trap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectorization in NLP"
+              "title": "Random Intilization Trap"
             }
           },
           {
-            "id": "2e82f49bea2c4369",
+            "id": "e2bd0c216af30aed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP/TF-IDF.md",
+                "file": "NLP/Over stemming and under stemming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TF-IDF"
-            }
-          },
-          {
-            "id": "85d9e9173c61d61a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NLP/Common NLP technique.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Common NLP technique"
-            }
-          },
-          {
-            "id": "cb6764afa10e6818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning and Preprocessing/7.Overfitting and Underfitting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.Overfitting and Underfitting"
+              "title": "Over stemming and under stemming"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -237,47 +211,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cb6764afa10e6818",
+  "active": "e2bd0c216af30aed",
   "lastOpenFiles": [
-    "Machine Learning and Preprocessing/6.Difference between Supervised and Unsupervised Learning.md",
-    "Machine Learning and Preprocessing/5.Categorical Data Independent and dependent Variable.md",
-    "Machine Learning and Preprocessing/4. Dataset ,label and features.md",
-    "Machine Learning and Preprocessing/3.Life Cycle of Machine Learning.md",
-    "Machine Learning and Preprocessing/2. Application of Machine Learning.md",
-    "Machine Learning and Preprocessing/1. Machine Learning.md",
-    "Machine Learning and Preprocessing/15.What is Cross Validation.md",
-    "Machine Learning and Preprocessing/14.Difference between 'transform' and 'fit_transform' in sklearn-Python?.md",
-    "Machine Learning and Preprocessing/13.Random state in train test split.md",
-    "Machine Learning and Preprocessing/12.Spliting data inti test and train.md",
-    "Machine Learning and Preprocessing/11.Feature Scaling.md",
-    "Machine Learning and Preprocessing/10.Encoding Categorical Data.md",
-    "Machine Learning and Preprocessing/9.Sikit-learn or Sklearn.md",
-    "Machine Learning and Preprocessing/8.Steps before applying any algorithm in data.md",
-    "Machine Learning and Preprocessing/Unsupervised and supervised learning.md",
-    "Machine Learning and Preprocessing/7.Overfitting and Underfitting.md",
-    "NLP/TF-IDF.md",
-    "NLP/Vectorization in NLP.md",
-    "Unsupervised Learning/Clustering/Random Intilization Trap.md",
-    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
-    "NLP/Stop words.md",
-    "NLP/Common NLP technique.md",
-    "NLP/Document Term Matrix.md",
-    "NLP/Bag of Words Model.md",
     "NLP/NMF(Non Negative Matrix Factorization).md",
-    "images/NMF(Non-Negative Maxtrix Factorization).png",
-    "images/Common NLP technique.png",
-    "images/Difference in CountVectorizer and TF-IDF.png",
-    "images/Document Term Matrix.png",
-    "images/Vectorization in NLP.png",
-    "NLP/Part of Speech Tagging.md",
-    "images/Part Of Speech Tagging.png",
-    "images/Single Neuron.png",
-    "images/Pasted image 20260302100030.png",
-    "images/Pasted image 20260216180337.png",
-    "images/what is neuron.png",
+    "NLP/5.TF-IDF.md",
+    "NLP/2.Lemmetization vs Stemming.md",
+    "NLP/Over stemming and under stemming.md",
+    "NLP/4.Document Term Matrix.md",
+    "NLP/Stemming.md",
+    "NLP/lemmatizer.md",
+    "NLP/3.Common NLP technique.md",
+    "NLP/1.Bag of Words Model.md",
+    "Reinforcement Learning/Upper Confidence Bound.md",
+    "Reinforcement Learning/Multi Armed Bandit Problem.md",
+    "Unsupervised Learning/Dimensionality Reduction/Dimensionality Reduction.md",
+    "Unsupervised Learning/Clustering/Random Intilization Trap.md",
+    "Unsupervised Learning/Clustering/K-means clustering.md",
+    "images/k-mean4.webp",
+    "images/k-mean3.webp",
+    "images/k-mean2.webp",
+    "images/k-mean1.webp",
+    "Unsupervised Learning/Clustering/Hierarchical Clutsering.md",
+    "Unsupervised Learning/Association/ECLAT.md",
+    "Unsupervised Learning/Association/Apriori.md",
+    "SupervisedLearning/Regressionn/Polynomial Regressiion/Polynomial Regression.md",
+    "Unsupervised Learning/Dimensionality Reduction",
+    "SupervisedLearning/Regressionn/Multiple Linear Regression/Multiple Linear Regression.md",
+    "SupervisedLearning/Regressionn/Simple Linear Regression/Intro To Simple Linear Regression.md",
+    "SupervisedLearning/Regressionn/Simple Linear Regression/how_does_linear_regression_work_.webp",
+    "SupervisedLearning/Regressionn/Simple Linear Regression/challenges_in_linear_regression.webp",
+    "SupervisedLearning/Regressionn/Simple Linear Regression/introduction_to_linear_reg.webp",
+    "SupervisedLearning/Regressionn/Simple Linear Regression/types_of_linear_regression.webp",
+    "SupervisedLearning/Regressionn/Simple Linear Regression/real_world_use_cases_of_linear_regression.webp",
+    "SupervisedLearning/Regressionn/Simple Linear Regression/Pasted image 20260112002510.png",
+    "SupervisedLearning/Regressionn/Random Forest.md",
+    "SupervisedLearning/Regressionn/Desicion Tree.md",
+    "SupervisedLearning/Regressionn/Support vector regression.md",
+    "SupervisedLearning/Classification/Accuracy Paradox.md",
+    "SupervisedLearning/Classification/SVM kernel.md",
+    "SupervisedLearning/Classification/Naive Bayes.md",
     "Deep Learning",
     "Reinforcement Learning",
     "Unsupervised Learning/Association",
@@ -287,7 +263,6 @@
     "Unsupervised Learning/Clustering",
     "U",
     "error and accuracy",
-    "NLP",
-    "Machine Learning and Preprocessing"
+    "NLP"
   ]
 }
