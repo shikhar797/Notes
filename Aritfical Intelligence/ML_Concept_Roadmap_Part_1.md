@@ -589,7 +589,9 @@ Standard Deviation = 1
 ### Formula
 
 \[
+$$
 z = \frac{x-\mu}{\sigma}
+$$
 \]
 
 ### Example
@@ -621,8 +623,10 @@ z = 2
 ### Min-Max Formula
 
 \[
+$$
 x' = \frac{x-x_{min}}
 {x_{max}-x_{min}}
+$$
 \]
 
 ### Example
@@ -1158,7 +1162,9 @@ Iterations per epoch = 100
 ### Formula
 
 \[
+$$
 Iterations \approx \frac{Dataset\ Size}{Batch\ Size}
+$$
 \]
 
 ### Key Idea
@@ -1224,7 +1230,9 @@ A **cost function** measures the overall error of a model across the training da
 For regression, Mean Squared Error can be used:
 
 \[
+$$
 MSE = \frac{1}{n}\sum(y-\hat y)^2
+$$
 \]
 
 ### Goal

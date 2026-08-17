@@ -31,7 +31,7 @@ slideNumber: true
 
 ### 53. Recall (Sensitivity)
 - **Definition:** The proportion of actual positive cases that were correctly identified by the model. It measures coverage.
-- **Formula:** $rac{TP}{TP + FN}$
+- **Formula:**$\frac{TP}{TP + FN}$
 - **Real-World Example:** In cancer diagnosis, Recall measures: *"Of all patients who actually have cancer, how many did the test catch?"*
 - **When it Matters:** High recall is critical when **False Negatives are dangerous or fatal**.
 

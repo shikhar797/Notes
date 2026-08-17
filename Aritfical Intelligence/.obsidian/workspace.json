@@ -6,6 +6,7 @@
       {
         "id": "888bf52c0f5efd5c",
         "type": "tabs",
+        "dimension": 60.690571049136786,
         "children": [
           {
             "id": "a40815e996722175",
@@ -41,23 +42,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML_Concept_Roadmap_Part_1.md",
+                "file": "Machine_Learning_Interview_Prep_Slides.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML_Concept_Roadmap_Part_1"
+              "title": "Machine_Learning_Interview_Prep_Slides"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "30c4e1d3ab34b3e0",
+        "id": "ac4a2d32ad61c7ce",
         "type": "tabs",
+        "dimension": 39.309428950863214,
         "children": [
           {
-            "id": "89285e9cd8524945",
+            "id": "6fe17b5dab03ab3e",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -231,10 +233,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "89285e9cd8524945",
+  "active": "6fe17b5dab03ab3e",
   "lastOpenFiles": [
-    "Machine_Learning_Interview_Prep_Slides.md",
     "ML_Concept_Roadmap_Part_1.md",
+    "Machine_Learning_Interview_Prep_Slides.md",
     "Untitled.md",
     "NLP/Over stemming and under stemming.md",
     "NLP/NMF(Non Negative Matrix Factorization).md",
