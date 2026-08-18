@@ -6,7 +6,6 @@
       {
         "id": "888bf52c0f5efd5c",
         "type": "tabs",
-        "dimension": 60.690571049136786,
         "children": [
           {
             "id": "a40815e996722175",
@@ -54,12 +53,11 @@
         "currentTab": 2
       },
       {
-        "id": "ac4a2d32ad61c7ce",
+        "id": "f5c96f9b57331e87",
         "type": "tabs",
-        "dimension": 39.309428950863214,
         "children": [
           {
-            "id": "6fe17b5dab03ab3e",
+            "id": "e565762626fc68dc",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -233,10 +231,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6fe17b5dab03ab3e",
+  "active": "e565762626fc68dc",
   "lastOpenFiles": [
-    "ML_Concept_Roadmap_Part_1.md",
+    "Deep Learning/what is neuron.md",
+    "Deep Learning/Max Pooling.md",
+    "Deep Learning/Deep Learning.md",
     "Machine_Learning_Interview_Prep_Slides.md",
+    "ML_Concept_Roadmap_Part_1.md",
     "Untitled.md",
     "NLP/Over stemming and under stemming.md",
     "NLP/NMF(Non Negative Matrix Factorization).md",
@@ -269,9 +270,6 @@
     "SupervisedLearning/Regressionn/Simple Linear Regression/types_of_linear_regression.webp",
     "SupervisedLearning/Regressionn/Simple Linear Regression/real_world_use_cases_of_linear_regression.webp",
     "SupervisedLearning/Regressionn/Simple Linear Regression/Pasted image 20260112002510.png",
-    "SupervisedLearning/Regressionn/Random Forest.md",
-    "SupervisedLearning/Regressionn/Desicion Tree.md",
-    "SupervisedLearning/Regressionn/Support vector regression.md",
     "Deep Learning",
     "Reinforcement Learning",
     "Unsupervised Learning/Association",
